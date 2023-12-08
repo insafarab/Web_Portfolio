@@ -1,4 +1,4 @@
-# Insaf Arab | Developer Portfolio
+# Insaf Arab | Portfolio
 
 ![Insaf Arab](assets/images/myphoto.png)
 
@@ -8,7 +8,7 @@
 
 ## Github Repository
 
-This is the [link](https://github.com/insafarab/) to the Github repository of the project.
+This is the [link](https://github.com/insafarab/Web_Portfolio) to the Github repository of the project.
 
 ## Sample Website
 
@@ -28,7 +28,7 @@ The project folder structure is organized as follows:
 
 - [Animate CSS](https://animate.style/) for animations
 - [Ion Icons](https://icones8.fr/) for icons
-- [Xampp] for localhost and phpmyadmin for the database
+- [Xampp](https://www.apachefriends.org/fr/index.html) for localhost using phpmyadmin for the database
 - Other images and icons used in the project are credited in their respective sections.
 
 
