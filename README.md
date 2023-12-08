@@ -1,6 +1,5 @@
 # Insaf Arab | Portfolio
 
-![Insaf Arab](assets/images/myphoto.png)
 
 ## Author
 
